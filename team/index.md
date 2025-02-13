@@ -21,9 +21,14 @@ We want to expand our team of multi-disciplinary researchers dedicated to improv
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/Bhat.jpg" %}
+{% include figure.html image="images/Gabi.jpg" %}
+{% include figure.html image="images/Rakesh.jpg" %}
+{% include figure.html image="images/Drake.jpg" %}
+{% include figure.html image="images/Takashi.jpg" %}
+{% include figure.html image="images/Pavan.jpg" %}
+{% include figure.html image="images/Gayatri.jpg" %}
+
 
 {% endcapture %}
 
