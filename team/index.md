@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Bhat lab Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We have been able to profile the myeloid cell population in the GBM primary and recurrent patients. We have been able to identify myeloid cell types and functional states in the GBM patients indicating the cell population that can be targeted for treatment.
 
 {% include section.html %}
 
@@ -18,10 +16,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+We want to expand our team of multi-disciplinary researchers dedicated to improving patient care and GBM treatment outcomes!
 {% include section.html %}
 
 {% capture content %}
