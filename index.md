@@ -1,7 +1,7 @@
 ---
 ---
 
-# gai3k's Website
+# Bhat lab Group
 
 An engaging 1-3 sentence description of your lab.
 
