@@ -2,6 +2,7 @@
 name: Alton Drake
 image: images/Drake.jpg
 role: MD-PhD
+description: MD-PhD
 group: current
 links:
   Twitter: AltonDrake
