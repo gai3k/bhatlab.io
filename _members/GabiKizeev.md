@@ -2,7 +2,7 @@
 name: Gabi Kizeev
 image: images/Gabi.jpg
 description: Research technologist
-role: Lab manager
+role: Research technologist
 links:
   email: Kizeev.Gabrielle@mayo.edu
   twitter: KizeevGabi
