@@ -6,23 +6,23 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-postdoc:
+Postdoctoral fellow:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+MD-PhD:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
+Research technologist:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
+GREP intern:
   icon: fa-solid fa-code
   description: Programmer
 
-mascot:
+Masters student:
   icon: fa-solid fa-dog
   description: Mascot
 
