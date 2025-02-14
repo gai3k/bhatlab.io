@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Bhatlab
-subtitle: We work on understanding glioblastma biology
-description: Our lab studies the tumor - glioblastoma(GBM). we examine the factors driving immune resistance and how transcription factors and immune cells are reprogrammed in GBM.
+subtitle: We work on various aspects of glioblastma biology
+description: Our lab studies focus on the aggressive brain tumor - glioblastoma(GBM). We examine the factors driving immune resistance and how transcription factors and immune cells are reprogrammed in GBM.
 header: images/background_mayo.jpg
 footer: images/background_mayo.jpg
 proofer: false
