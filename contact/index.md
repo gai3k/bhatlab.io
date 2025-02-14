@@ -40,16 +40,11 @@ We are looking forward to expanding our team of cross-disciplinary researchers. 
 
 {% endcapture %}
 
-
-{% include cols.html col1=col1 col2=col2 %}
-
 {% include section.html dark=true %}
 
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+{% capture col1 %}
+Additional text to be added
 {% endcapture %}
 
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 %}
