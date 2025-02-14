@@ -3,15 +3,16 @@
 
 # Bhat lab Group
 
-An engaging 1-3 sentence description of your lab.
-
+Our group uses a multipronged approach to explain the genetic, molecular and immunological basis of glioblastoma (GBM), a malignant brain cancer that is incurable.Despite aggressive standard-of-care treatments, including concurrent chemoradiation, people with GBM ultimately relapse and die of this disease. Dr. Bhat's long-term goal is to understand GBM at the molecular and cellular levels. He uses state-of-the-art technologies and applies resulting knowledge to develop new therapeutic strategies and biomarkers for individuals with brain cancer.
 {% include section.html %}
 
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Radiation resistance in glioma stemlike cells (GSCs).
+- Interaction of myeloid cells, cancer cells and the central nervous system.
+- Developing liquid biopsies for brain cancer.
 
 {%
   include button.html
@@ -26,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/overview.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +35,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Bhat laboratory overarching goals. Using brain tumors as a model system, we seek to 
+1) decipher  glioma stem cell biology as it relates to the therapy resistance using state of the art 3D chromatin studies as well mouse models;
+2) catalog the immune landscape using deep immunophenotyping; and
+3) discover new liquid biopsy approaches to longitudinally monitor disease progression.
 
 {%
   include button.html
@@ -59,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have a multi-disciplinary team including immunologists, clinical residents, neurobiologists and bioinformaticians.
 
 {%
   include button.html
