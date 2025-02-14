@@ -35,10 +35,10 @@ Our group uses a multipronged approach to explain the genetic, molecular and imm
 
 {% capture text %}
 
-Bhat laboratory overarching goals. Using brain tumors as a model system, we seek to 
-1) decipher  glioma stem cell biology as it relates to the therapy resistance using state of the art 3D chromatin studies as well mouse models;
-2) catalog the immune landscape using deep immunophenotyping; and
-3) discover new liquid biopsy approaches to longitudinally monitor disease progression.
+Bhat laboratory overarching goals. Using brain tumors as a model system, we seek to:
+- Decipher  glioma stem cell biology as it relates to the therapy resistance using state of the art 3D chromatin studies as well mouse models;
+- Catalog the immune landscape using deep immunophenotyping; and
+- Discover new liquid biopsy approaches to longitudinally monitor disease progression.
 
 {%
   include button.html
@@ -53,7 +53,7 @@ Bhat laboratory overarching goals. Using brain tumors as a model system, we seek
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/NeuroOncology.tif"
   link="projects"
   title="Our Projects"
   flip=true
@@ -63,7 +63,7 @@ Bhat laboratory overarching goals. Using brain tumors as a model system, we seek
 
 {% capture text %}
 
-We have a multi-disciplinary team including immunologists, clinical residents, neurobiologists and bioinformaticians.
+We have a multi-disciplinary team including immunologists, clinical residents, neurobiologists and bioinformaticians who their expertise and different perspectives to examining the evolution of GBM disease and recurrence.
 
 {%
   include button.html
@@ -78,7 +78,7 @@ We have a multi-disciplinary team including immunologists, clinical residents, n
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab_copy.jpg"
   link="team"
   title="Our Team"
   text=text
