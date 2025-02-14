@@ -2,6 +2,7 @@
 name: Rakesh Trivedi
 image: images/Rakesh.jpg
 role: Postdoctoral fellow
+description : Postdoctoral fellow
 group: Current
 links:
   github: john-doe
