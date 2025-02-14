@@ -7,7 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our long-term goal is to understand cancer at a molecular level and use this knowledge to develop novel therapeutic strategies and biomarkers for this devastating disease. The Bhat laboratory’s primary focus is on glioblastoma (GBM), a deadly brain tumor with a median survival of only 12-15 months. Unlike other cancers, targeted therapies or “personalized medicine” approaches as well as immunotherapies have failed to improve outcome for this disease and therefore novel strategies are urgently needed. Another major challenge in GBM is the lack of predictive biomarkers and the inability to provide longitudinal monitoring during therapy and relapse. Our laboratory takes multipronged approaches to address these areas of unmet need for brain tumors. The Bhat laboratory has made significant contributions to the field by identifying that master regulators that promote mesenchymal transition and treatment resistance in glioblastoma. We identified molecular signatures in GBM (proneural, mesenchymal, G-CIMP subtypes), transcriptional regulation of these subtypes, and are developing treatment strategies using combinatorial approaches using glioma stem-like cells (GSCs), and mouse models of glioma. Specifically, we discovered the existence of the molecular subtypes of GSCs that resemble the mesenchymal subtype, which are radio-resistant and dependent on TAZ and NF-kB activation for their survival. A second area of interest in our laboratory is the development of novel liquid biopsy platforms to monitor cancer progression. A third emerging area of research interest is to characterize the tumor microenvironment using deep immunophenotyping approaches. Our laboratory members have broad expertise in cancer biology, neuro-immunology, bio-informatics and translational research.
+- Radiation resistance in glioma stemlike cells (GSCs). 
+  This project investigates the mechanistic underpinnings of transcriptional plasticity and mesenchymal phenotype in GSCs and evaluates how these 
+  traits contribute to radioresistance. New pharmacological inhibitors that block mesenchymal differentiation will also be tested as 
+  radiosensitizers in mouse models of gliomas.
+- Interaction of myeloid cells, cancer cells and the central nervous system.
+  Dr. Bhat's lab uses single-cell multi-omics technologies to decipher the components of the brain tumor microenvironment. Mechanisms underlying   
+  inflammation, phagocytosis in myeloid cells, and their role in regulating tumor growth are currently being studied along with information from 
+  high-dimensional data.
+- Developing liquid biopsies for brain cancer
+  Dr. Bhat's lab is examining transcriptomic signatures from tumor-educated platelets and blood-derived cell-free DNA methylation patterns as a     
+  liquid biopsy platform to monitor GBMs.
 
 
 {% include tags.html tags="publication, resource, website" %}
