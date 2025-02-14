@@ -53,7 +53,7 @@ Bhat laboratory overarching goals. Using brain tumors as a model system, we seek
 
 {%
   include feature.html
-  image="images/NeuroOncology.tif"
+  image="images/NeuroOncology.jpg"
   link="projects"
   title="Our Projects"
   flip=true
