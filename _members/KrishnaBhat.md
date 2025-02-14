@@ -2,6 +2,7 @@
 name: Krishna P Bhat
 image: images/Bhat.jpg
 role: principal-investigator
+description: principal-investigator
 affiliation: Mayo Clinic
 aliases:
   - KPB
