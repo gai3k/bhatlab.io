@@ -78,7 +78,7 @@ We have a multi-disciplinary team including immunologists, clinical residents, n
 
 {%
   include feature.html
-  image="images/lab_copy.jpg"
+  image="images/lab copy.jpg"
   link="team"
   title="Our Team"
   text=text
