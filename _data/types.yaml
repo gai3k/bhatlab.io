@@ -8,19 +8,19 @@ principal-investigator:
 
 Postdoctoral fellow:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Postdoctoral fellow
 
 MD-PhD:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: MD-PhD
 
 Research technologist:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Research technologist
 
 GREP intern:
   icon: fa-solid fa-code
-  description: Programmer
+  description: GREP intern
 
 Masters student:
   icon: fa-solid fa-dog
